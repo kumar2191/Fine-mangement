@@ -1,0 +1,13 @@
+.fine-list{
+    text-align:center;
+    margin-top:50px;
+  }
+  .fine-list ul{
+    margin: 0;
+  }
+  .fine-list ul li{
+    display: inline-block;
+    border: 1px solid red;
+    padding:5px;
+    width:150px;
+  }
